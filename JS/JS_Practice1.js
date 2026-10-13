@@ -1,4 +1,3 @@
-// Problem Statement 1
 // 1. Write a  proram that prints "Hello World" onthe console
 console.log("Hello World");
 
