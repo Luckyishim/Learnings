@@ -1,9 +1,3 @@
-// // Multiplication
-// let num = 17;
-// for (let i = 1; i <= 10; i++) {
-//     console.log(`${num} x ${i} = ${num * i}`);
-// }
-
 // //Square roots of numbers
 // let num = 10;
 // for (let i = 1; i <= num; i++) {
