@@ -11,7 +11,7 @@ function multiplication(tableOf, tableTill) {
         console.log(`${tableOf} * ${i} = ${i * tableOf}`);
     }
 }
-multiplication(4, 10)
+multiplication(46.3, 10)
 
 
 //Square roots of numbers
