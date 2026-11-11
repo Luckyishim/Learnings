@@ -18,10 +18,13 @@
 function findAllFactors(number){
     for(let i=1; i<=number; i++){
        if( number % i ==0){
-        console.log(i);
+        console.log(i, "is a factor");
+        
+       }else{
+        console.log(i, "is NOT a factor");
         
        }
     }
     
 }
-findAllFactors(69)
+findAllFactors(9)
